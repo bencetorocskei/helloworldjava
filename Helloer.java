@@ -10,5 +10,6 @@ public class Helloer{
 	
 	public void sayHello(){
 		System.out.println(msg);
+		System.out.println("and Good Bye!")
 	}
 	}
